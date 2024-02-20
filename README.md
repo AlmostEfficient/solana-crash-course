@@ -1,6 +1,17 @@
 # solana-crash-course
 Getting started on Solana for someone that's never touched a blockchain
 
+## A no buzzword Solana crash course
+I'm gonna explain everything you need to know about Solana and I'll try doing it without using any buzzwords. There's three parts to this, I recommend skimming parts that you feel comfortable with! 
+
+**Who is this for?**  
+Someone that's never used a blockchain and has no idea what Solana, Bitcoin, or Ethereum are.
+
+## What is Solana?
+Solana is a network on computers that runs 
+
+Solana is a platform for building applications on top of. 
+
 ## TOC
 - What is Solana? Compare to AWS/GCP.
 - How does Solana work? Compare to EC2 server + serverless vs pay per write/action.
